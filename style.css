@@ -1,0 +1,18 @@
+#navigation {
+  /*background: rgb(2, 0, 29);*/
+  background: linear-gradient(
+    90deg,
+    rgba(7, 3, 95, 0.916) 0%,
+    #523d09 35%,
+    rgba(236, 170, 3, 0.943) 100%
+  );
+}
+#navlink {
+  color: rgb(230, 230, 230);
+  font: 1.5em sans-serif;
+  word-spacing: normal;
+}
+#navlink:hover {
+  margin-top: 8px;
+  color: rgb(5, 19, 141);
+}
